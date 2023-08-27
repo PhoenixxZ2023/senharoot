@@ -1,6 +1,6 @@
-# senharoot
+# SENHAROOT
 
-Entrar e definir como Usuário root 
+# ENTRAR E DEFINIR SENHA ROOT...
 
 sudo -i
 
