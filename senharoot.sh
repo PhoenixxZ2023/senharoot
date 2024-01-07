@@ -40,3 +40,4 @@ exit 0
 }
 echo "root:$senha" | chpasswd
 echo -e "\n\033[1;31m[ \033[1;33mVai brasiliam \033[1;31m]\033[1;37m - \033[1;32magora o bicho vai pegar \033[0m"
+exit
